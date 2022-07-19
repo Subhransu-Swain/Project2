@@ -1,0 +1,62 @@
+
+h1{
+    color: rgb(216, 219, 38);
+    text-align: center;
+    font-style: italic;
+}
+p{
+    color: rgb(233, 15, 15);
+    text-align: center;
+    font-style: italic;
+}
+
+/* body{
+    background-color: rgb(126, 212, 50);
+   
+} */
+h2{
+    color: rgb(231, 247, 17);
+    
+    font-style: italic;
+}
+body{
+    background-image:url('silicon2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+/* h3{
+    color: rgb(217, 240, 9);
+    
+    font-style: italic;
+} */
+p{
+    background-color: rgb(0, 0, 0);
+   
+}
+h4,ul{
+    color: hsl(93, 88%, 68%);
+    
+    font-style: italic;
+}
+ol{
+    color: hsl(172, 74%, 49%);
+    
+    font-style: italic;
+}
+/* ol{
+    background-color: rgb(0, 0, 0);
+   
+} */
+a{
+    color: rgba(67, 10, 121, 0.932);
+    
+    font-style: italic;
+}
+dd{
+    background-color: rgb(156, 238, 101);
+   
+}
+.class3{
+    background-color: rgb(221, 183, 101);
+}
